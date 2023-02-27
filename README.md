@@ -1,7 +1,7 @@
 # Ry-Bomber
 # SMS Bomber
 
-💣 Call and SMS Bombing(+All country 
+💣  SMS Bombing(+All country 
 
 ## INSTALLATION [Termux] :
 * `apt update`
