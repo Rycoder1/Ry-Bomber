@@ -1,7 +1,17 @@
 # Ry-Bomber
 # SMS Bomber
+</p>
 
-💣  SMS Bombing(+All country 
+<p align="center"><a href="https://github.com/Rycoder1">
+
+
+
+<h1 align="center">Ry-Bomber v1.0</h1>
+
+<p align="center">      OTP BOMBER || SMS BOMBER || TERMUX LINUX USERS</p>
+
+
+ Bombing(+All country 
 
 ## INSTALLATION [Termux] :
 * `apt update`
