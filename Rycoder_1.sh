@@ -54,25 +54,25 @@ banner() {
 
     if ! [ -x "$(command -v figlet)" ]; then
 
-        echo 'Introducing DaddyBomber'
+        echo 'Rycoder'
 
     else
 
-                 figlet DaddyBomber
+                figlet Rycoder 
 
     fi
 
     if ! [ -x "$(command -v toilet)" ]; then
 
-        echo -e "\e[4;34m This Bomber Was Created By \e[1;32mPiyush Garg \e[0m"
+        echo -e "\e[4;34m This Bomber Was Created By \e[1;32mRycoder\e[0m"
 
     else
 
         echo -e "\e[1;34mCreated By \e[1;34m"
 
-        figlet Piyush Garg
+        figlet Rycoder 
 
-    printf "\033[1;93m[\033[1;77m::\033[1;93m]	    \033[1;92m   Code by : \033[1;97m   Piyush Garg	    \033[1;93m[\033[1;77m::\033[1;93m]"	printf "\n\033[1;93m[\033[1;77m::\033[1;93m]	\033[1;92mmodify code by : \033[1;97m Piyush Garg \033[1;93m[\033[1;77m::\033[1;93m]\n"
+    printf "\033[1;93m[\033[1;77m::\033[1;93m]	    \033[1;92m   Code by : \033[1;97m   Rycoder 	    \033[1;93m[\033[1;77m::\033[1;93m]"	printf "\n\033[1;93m[\033[1;77m::\033[1;93m]	\033[1;92mmodify code by : \033[1;97m Piyush Garg \033[1;93m[\033[1;77m::\033[1;93m]\n"
 
     echo " "
 
@@ -194,7 +194,7 @@ else
 
     install_deps
 
-    echo This Script Was Made By Piyush Garg > .update
+    echo This Script Was Made By Rycoder > .update
 
     echo 'Requirements Installed....'
 
@@ -212,9 +212,9 @@ do
 
     echo " "
 
-    echo -e "'\033[1;31m                           ⫸ Coded by\033[1;32m Piyush Garg\033[1;31m ⫷\033[0m"
+    echo -e "'\033[1;31m                           ⫸ Coded by\033[1;32m Rycoder\033[1;31m ⫷\033[0m"
 
-    echo -e "'\033[1;31m                         ⫸\033[1;33m Piyush Garg\033[1;31m ⫷\033[0m"
+    echo -e "'\033[1;31m                         ⫸\033[1;33m Rycoder\033[1;31m ⫷\033[0m"
 
     echo 
 
@@ -254,9 +254,9 @@ echo " "
 
         cd $HOME
 
-        cd DaddyBomber
+        cd Ry-Bomber
 
-        python3 bomber.py
+        python3 bomber.py 
 
        
 
@@ -266,9 +266,9 @@ echo " "
 
         cd $HOME
 
-        cd DaddyBomber
+        cd Ry-Bomber
 
-        python3 bomber.py
+        python3 Rycoder_1.sh
 
         
 
