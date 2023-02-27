@@ -20,13 +20,13 @@ detect_distro() {
 
             distro="$(source /etc/os-release && echo $ID)"
 
-        elif [ "$OSTYPE" == "darwin" ]; then
+        elif [ "$OSTYPE" == "Rycoder" ]; then
 
-            distro="darwin"
+            distro="Rycoder"
 
         else 
 
-            distro="invalid"
+            distro="Rycoder"
 
         fi
 
@@ -80,13 +80,13 @@ banner() {
 
     echo -e            *Requirements:*
 
-    echo -e '\033[1;36m'            ➡️ '\033[1;31m'100 MB data*
+    echo -e '\033[1;36m'            ❤️ '\033[1;31m'Instagram 《Rycoder_1》*
 
-    echo -e '\033[1;36m'            ➡️ '\033[1;31m'200 MB storage*
+    echo -e '\033[1;36m'            ❤️ '\033[1;31m'Youtube 《Rycoder_1》*
 
-    echo -e '\033[1;36m'            ➡️ '\033[1;31m'No root*
+    echo -e '\033[1;36m'            ❤️ '\033[1;31m'GitHub 《Rycoder1 》*
 
-    echo -e '\033[1;36m'            ➡️ '\033[1;31m'Data Connection*
+    echo -e '\033[1;36m'            ❤️ '\033[1;31m'《 Cyber-D ARmy 》*
 
     fi
 
@@ -225,14 +225,6 @@ echo " "
 echo " "
 
 echo -e " \033[1;31m                         ➡️ \033[1;33m  [1️⃣] Sms bombing"
-
-echo -e " \033[1;31m                         ➡️ \033[1;33m  [2️⃣] Call bombing"
-
-echo -e " \033[1;31m                         ➡️ \033[1;33m  [3️⃣] Mail bombing"
-
-echo -e " \033[1;31m                         ➡️ \033[1;33m  [4️⃣] Whatsapp bombing (coming soon)"
-
-echo -e " \033[1;31m                         ➡️ \033[1;33m  [5️⃣] Update script"
 
 echo -e " \033[1;31m                         ➡️ \033[1;33m  [6️⃣] exit"
 
