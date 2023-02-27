@@ -257,63 +257,8 @@ echo " "
         cd DaddyBomber
 
         python3 bomber.py
-
        
-
-        exit
-
-    elif [ $ch -eq 2 ];then
-
-        cd $HOME
-
-        cd DaddyBomber
-
-        python3 bomber.py
-
         
-
-        exit
-
-        exit
-
-    elif [ $ch -eq 3 ];then
-
-         cd $HOME
-
-        git clone https://github.com/ha-mrx/Emailbomb
-
-         cd Emailbomb
-
-        chmod +x Emailbomb.py
-
-        python2 Emailbomb.py
-
-        exit
-
-    elif [ $ch -eq 4 ];then
-
-        cd $HOME
-
-        cd DaddyBomber
-
-        bash DaddyBomber.sh
-
-    elif [ $ch -eq 5 ];then
-
-        echo -e "\e[1;34m Downloading Latest Files..."
-
-        cd $HOME
-
-        rm -rf DaddyBomber
-
-        https://github.com/MaybePiyush/DaddyBomber
-
-        cd DaddyBomber
-
-        bash DaddyBomber.sh
-
-       
-
         exit
 
     elif [ $ch -eq 6 ];then
