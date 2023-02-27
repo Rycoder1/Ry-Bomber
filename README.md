@@ -15,3 +15,17 @@
 * `bash Ry-Bomber.sh`
  
   
+
+
+ ## THANKS!  
+
+   Enjoy ✔
+
+ ## 
+
+    🔴🔴🔴🔴  🔴   🔴  🔴 🔴    🔴 🔴   🔴    🔴     🔴  🔴🔴🔴
+        🔴      🔴🔴🔴  🔴  🔴    🔴  🔴  🔴    🔴  🔴    🔴__\
+        🔴      🔴   🔴 🔴🔴 🔴   🔴   🔴 🔴    🔴🔴 🔴       🔴
+        🔴      🔴   🔴🔴     🔴   🔴    🔴🔴    🔴     🔴 🔴🔴🔴
+
+# THANKS FOR USING! LOVE YOU!⚡⚡⚡✔
