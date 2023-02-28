@@ -78,7 +78,7 @@ banner() {
 
     echo " "
 
-    echo -e            *Requirements:*
+    echo -e            *About me:*
 
     echo -e '\033[1;36m'            ❤️ '\033[1;31m'Instagram 《Rycoder_1》*
 
